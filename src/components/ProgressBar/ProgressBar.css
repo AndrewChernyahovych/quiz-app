@@ -1,0 +1,15 @@
+.progress-bar-counter {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.progress-bar-counter b {
+  color: #e4229c;
+}
+
+.progress-bar-fill {
+  height: 10px;
+  background-color: #ff007f;
+  width: 0;
+}
