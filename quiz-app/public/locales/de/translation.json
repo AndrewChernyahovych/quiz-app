@@ -1,0 +1,57 @@
+{
+  "preferredLanguage": {
+    "title": "Was ist Ihre bevorzugte Sprache?",
+    "instruction": "Sprache wählen",
+    "answerOptions": ["Englisch", "Französisch", "Deutsch", "Spanisch"]
+  },
+  "whatGender": {
+    "title": "Mit welchem ​​Geschlecht identifizierst du dich?",
+    "instruction": "Sprache wählen",
+    "answerOptions": [
+      { "text": "Weiblich", "icon": "👩" },
+      { "text": "Männlich", "icon": "👨" },
+      { "text": "Andere", "icon": "😉" }
+    ]
+  },
+  "whatAge": {
+    "title": "Wie alt bist Du?",
+    "instruction": null,
+    "answerOptions": ["18-29 Jahre", "30-39 Jahre", "40-49 Jahre", "50+"]
+  },
+  "whatHateInBooks": {
+    "title": "Was hassen Sie an einem Buch am meisten?",
+    "instruction": null,
+    "answerOptions": [
+      "Mangelnde Logik",
+      "Langsame Geschwindigkeit",
+      "Mangelnder Humor",
+      "Viel zu generisches Ende"
+    ]
+  },
+  "whatFavoriteTopics": {
+    "title": "Was sind Ihre Lieblingsthemen?",
+    "instruction": "Wählen Sie bis zu 3 Themen aus, die Ihnen gefallen",
+    "answerOptions": [
+      "Werwolf",
+      "Action",
+      "Royal Obsession",
+      "Milliardär",
+      "Romanze",
+      "Junge Erwachsene",
+      "Bad Boy"
+    ]
+  },
+  "nextBtnTitle": "Weiter",
+  "loaderTitle": "Sammlungen für Sie finden...",
+  "emailInstruction": "Geben Sie Ihre E-Mail ein, um vollen Zugriff zu erhalten",
+  "emailPlaceholder": "Deine Email",
+  "termsOfUse": [
+    "Indem ich fortfahre, stimme ich den ",
+    "Datenschutzrichtlinien ",
+    "und ",
+    "Nutzungsbedingungen zu."
+  ],
+  "thankYou": "Vielen Dank für Ihre Unterstützung und das Bestehen des Quiz",
+  "downloadAnswers": "Meine Antworten herunterladen",
+  "retakeQuiz": "Quiz wiederholen"
+}

@@ -1,0 +1,36 @@
+.thank-you-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  box-sizing: border-box;
+  background-color: #1f002b;
+  color: #fff;
+  padding: 20px;
+}
+
+.thank-you-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.thank-you-icon {
+  font-size: 60px;
+  color: green;
+  margin-bottom: 20px;
+}
+
+.thank-you-button {
+  width: 100%;
+  max-width: 350px;
+  padding: 15px;
+  margin: 10px 0;
+  font-size: 17px;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  border-radius: 100px;
+  border: 1px solid #E4229C;
+}

@@ -1,0 +1,33 @@
+.question {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.question h2 {
+  font-size: 28px;
+  margin-bottom: 16px;
+  font-weight: 700;
+}
+
+.question__instruction {
+  color: #C4C8CC;
+  font-size: 17px;
+}
+
+.question-option {
+  width: 80%;
+  text-align: left;
+  padding: 18px 0px 18px 20px;
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.selected {
+  border: 2px solid #e4229c;
+}
+
+@media (max-width: 768px) {
+  .question button {
+    width: 100%;
+  }
+}

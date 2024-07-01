@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "What is your preferred language?",
+      "type": "single-select",
+      "answerOptions": ["English", "French", "German", "Spanish"]
+    },
+    {
+      "id": 2,
+      "title": "What gender do you identify with?",
+      "type": "single-select-image",
+      "answerOptions": [
+        { "text": "Female", "icon": "👩" },
+        { "text": "Male", "icon": "👨" },
+        { "text": "Other", "icon": "😉" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "What is your age?",
+      "type": "single-select",
+      "answerOptions": ["18-29 years", "30-39 years", "40-49 years", "50+"]
+    },
+    {
+      "id": 4,
+      "title": "What do you hate the most in a book?",
+      "type": "multiple-select",
+      "answerOptions": [
+        "Lack of logic",
+        "A slow speed",
+        "Lack of humor",
+        "Way too generic ending"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "What are your favorite topics?",
+      "type": "bubble",
+      "answerOptions": [
+        "Werewolf",
+        "Action",
+        "Royal Obsession",
+        "Billionaire",
+        "Romance",
+        "Young Adult",
+        "Bad Boy"
+      ]
+    }
+  ]
+}
